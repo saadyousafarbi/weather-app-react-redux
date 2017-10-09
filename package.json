@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.16.2",
+    "lodash": "^4.17.4",
     "react": "^16.0.0",
+    "react-bootstrap": "^0.31.3",
     "react-dom": "^16.0.0",
-    "react-scripts": "0.9.5"
+    "react-redux": "^5.0.6",
+    "react-scripts": "0.9.5",
+    "react-sparklines": "^1.7.0",
+    "redux": "^3.7.2",
+    "redux-promise": "^0.5.3"
   },
   "devDependencies": {},
   "scripts": {
@@ -14,4 +21,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
+
 }
+
